@@ -1,0 +1,216 @@
+body {
+	margin: 0 auto;
+
+	padding: 0px;
+	border: 0px;
+	font-size: 16px;
+	font-family: calibri, Helvetica, sans-serif;
+	color: black;
+	width: 960px; 
+background-size: 1000px;
+}
+
+/** CONTENEDOR **/
+
+.container {
+	margin: 0 auto; 
+	margin-top: -65px;
+	padding: 0px;
+	width: 970px;
+	background: white;
+}
+
+
+.logo {
+	float: left;
+	margin-top: 20px;
+	margin-left:103px;
+	border: 0px solid red;
+
+}
+
+
+header { 
+		margin:0 auto;
+
+	position:relative;
+	border: 0px solid green;
+
+	width:960px;
+	
+	}
+
+	/** FRASES **/
+
+.frases{
+	margin-top: 105px;
+	z-index: -1;
+	width: 950px;
+	height: 380px;
+	border: 0px solid pink;
+}
+
+
+/** NAVEGACION BAR **/
+
+nav {
+		border: 0px solid blue;
+		float: left;
+
+	margin-top: 35px;
+	margin-left: 20px;
+	margin-bottom: 50px;
+	font-family: 'Raleway', sans-serif;
+	text-align:center;
+	max-width: 600px;
+
+
+}
+nav ul {
+		list-style: none; 
+		margin: 0 auto; 
+		width: 600px; 
+		text-align: center;
+
+	}
+
+	nav li {
+		float: left; 
+		display: inline; 
+		margin: 0;
+	}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0px;
+    padding-right: 0px;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: gray;
+    text-align: center;
+    padding: 0px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+   color: #DD72A5;
+   font-weight: bold;
+}
+
+
+
+
+/** SECCION **/
+
+
+.venta{
+	margin:0 auto;
+	margin-top: 130px;
+	border: 0px solid purple;
+	width: 949px;
+	
+}
+section {
+margin: 0 auto;
+
+
+}
+
+
+article{
+		margin-left: 30px;
+		border: 0px solid black; 
+		float: left;
+		margin-bottom: 50px;
+
+}
+
+
+.linea{
+	margin-top: 120px;
+
+
+z-index: -1;
+	width: 960px;
+	height: 4px;
+	background: #FFEEDB;
+}
+
+/** TEXTO **/
+
+h1{
+	color:black;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: -100px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: -70px;
+	text-align: center;
+}
+
+
+h1:hover{
+    color: #DD72A5;
+}
+
+
+	
+
+
+a:link   
+{   
+ text-decoration:none;   
+}   
+
+
+
+/** FOOTER **/
+
+
+
+}
+
+h1.basetext {
+	margin-top: 0px;
+	text-align: left;
+	margin-left: 45px;
+	margin-bottom: 10px;
+	color: black;
+}
+
+h1.basetext:hover{
+    color: #d63b33;
+}
+/** FOOTER **/
+
+
+	footer {
+	margin-top: 100px;
+	border: 3px solid #DD72A5;
+	clear: both; 
+	background:#DD72A5;
+	height:40px;
+}
+
+footer address { 
+	font-family: 'Raleway', sans-serif;
+	position:relative; 
+	top:13px; 
+	left:20px; 
+	color:#fff; 
+	text-align:center; 
+	font-size:13px; 
+
+}
+	
+
